@@ -1,0 +1,92 @@
+body{
+    background-image: url(../amarachi/image/IMAGEN_ARTICULO_FUERZA_3.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    padding: 0;
+    margin: 0;
+}
+img .box1{
+    width: 10%;
+    border-radius: 50%;
+
+}
+.box1{
+    width: 20%;
+    border-radius: 50%;
+margin-top: 30px;
+margin-left: 10px;
+}
+.b0x2{
+    color: red;
+} 
+.box2:hover{
+    color: rgba(255, 0, 0, 0.685);
+}
+.box4{
+    padding: 10px;
+    margin: 10px;
+    color: red;
+    
+}
+.carousel-inner img{
+    width: 400px;
+    height: 400px;
+}
+
+.carousel-inner p{
+    font-size: 20px;
+    color: white;
+}
+.joyd{
+    width: 200px;
+    height: 100px;
+}
+.sse{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.you{
+    width: 50%;
+    height: 50%;
+}
+
+.bb{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.tt{
+    margin-left: 410px;
+    height: 30px;
+}
+.us{
+    margin-left: 600px;
+}
+.jj{
+    padding: 30px;
+}
+.doi input{
+    width: 750px;
+}
+.creat{
+    margin-left: 700px;
+    margin-top: -40px;
+}
+.vrt{
+    margin-top: 25px;
+}
+form{
+    width: 500px;
+}
+.form-control{
+    background-color: rgba(95, 158, 160, 0.347);
+    margin-top: 20px;
+    line-height: 30px;
+}
+.her img{
+    margin-top: 10px;
+    width: 290px;
+}
+.h-100 .rty{
+    height: 40vh;
+}
